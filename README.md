@@ -10,3 +10,5 @@ In this project, a static website was deploy to AWS using S3, CloudFront, and IA
 - /css - CSS files for the website.
 
 
+### Homepage after deployment
+![image](https://user-images.githubusercontent.com/55122878/212841843-1d145088-c901-4d96-9b91-f1b6ade99a80.png)
